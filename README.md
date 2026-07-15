@@ -66,13 +66,11 @@ A multi-agent AI career guidance system powered by Gemini and Streamlit for prof
 
 ---
 
-## GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YRSevra&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YRSevra&theme=github-dark-blue&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+</p>
 
 ---
 
